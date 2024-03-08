@@ -1,0 +1,1 @@
+Começo indo para a sala de lampadas e ligo o 1º interruptor e deixo um tempo ligado, após passar esse tempo desligo o mesmo e ligo o 2º interruptor e vou para a sala com as lampadas, dessa forma se a lampada ficar quente e estiver desligada o 1º interruptor que liga ela, se tiver ligada o 2° liga ela e se tiver fria e desligada o 3° liga ela
